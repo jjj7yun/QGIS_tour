@@ -24,4 +24,4 @@ QGIS 기반 김해시 관광 분석 참조 모델링
 5. 외국인 관광객 국적별로 방문 패턴 분석
 
 ### Result
-![image](https://user-images.githubusercontent.com/79688191/145765062-9c1fe9ee-e1dd-462c-9484-06971fc68236.png)
+![image](https://user-images.githubusercontent.com/79688191/145765491-4044ed9c-a9d5-4c23-846e-462c62567c08.png)
