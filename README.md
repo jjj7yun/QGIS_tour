@@ -31,4 +31,6 @@ QGIS 기반 김해시 관광 분석 참조 모델링
 
 ### Usage
 QGIS data : QGIS에 사용한 데이터
+
+
 관광_result.qgz : QGIS 결과 파일
